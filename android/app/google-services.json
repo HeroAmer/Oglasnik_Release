@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101287890055",
+    "firebase_url": "https://oglasnik-d920b.firebaseio.com",
+    "project_id": "oglasnik-d920b",
+    "storage_bucket": "oglasnik-d920b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101287890055:android:edb1fb5663bed9e1003c22",
+        "android_client_info": {
+          "package_name": "com.firstRealFlutterApp.Oglasnik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101287890055-6gbdt1ac8u6561n1055dikfg7laag375.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5mjv51qpwgOxQ-9kvkj4dbB77tr3J5Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101287890055-6gbdt1ac8u6561n1055dikfg7laag375.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
